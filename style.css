@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+#b{
+    font-size: 3em;
+    padding: 5px 30px;
+    border-radius: 15px;
+}
+
+#labels{
+    font-size: x-large;
+}
